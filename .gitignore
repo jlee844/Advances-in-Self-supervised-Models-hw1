@@ -52,8 +52,3 @@ Thumbs.db
 *.tar.gz
 *.jsonl
 
-# Results
-*.png
-*.jpg
-*.jpeg
-results/
